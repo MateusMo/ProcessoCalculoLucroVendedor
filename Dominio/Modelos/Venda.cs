@@ -14,7 +14,7 @@ namespace Dominio.Modelos
         public DateTime DataVenda { get; set; }
         public MeioPagamentoEnum MeioPagamentoEnum { get; set; }
         public int VendedorId { get; set; }
-        public bool Processado { get; set; }
+        public bool Processado { get; set; } = false;
 
         //Propriedades de navegação
         public Vendedor Vendedor { get; set; }

@@ -5,3 +5,114 @@
 *.scm~
 *.scm#*
 .#*.scm
+
+# Arquivos binários e de compilação
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.log
+*.vscode/
+*.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Diretórios específicos do Visual Studio
+.vscode/
+.vs/
+
+# Arquivos de configuração
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+launchSettings.json
+
+# Dependências e pacotes
+packages/
+*.lock
+*.config
+project.lock.json
+artifacts/
+
+# Ferramentas
+_ReSharper*/
+*.resharper
+*.suo
+*.user
+*.resharper.user
+
+# Arquivos temporários
+[Tt]emp/
+[Vv]ideos/
+[Ii]nstall/
+[Dd]ebug/
+[Rr]elease/
+[Ll]og/
+[Ll]ogs/
+
+# Arquivos de compilação
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Ferramentas .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+

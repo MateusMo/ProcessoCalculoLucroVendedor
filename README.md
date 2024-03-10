@@ -70,9 +70,11 @@ Tabela de vendedor:
 Mensagens no rabbitMq:
 
 -Fila:
+
 ![image](https://github.com/MateusMo/ProcessoCalculoLucroVendedor/assets/71354894/09ce36e1-8757-43e2-81f6-94039ed694eb)
 
 -Mensagem:
+
 ![image](https://github.com/MateusMo/ProcessoCalculoLucroVendedor/assets/71354894/b3124610-caec-4fa1-a13f-40b833f3a901)
 
 
